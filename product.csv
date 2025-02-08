@@ -1,0 +1,41 @@
+product_id,product_name,description,price
+1,Laptop,"High-performance laptop",999.99
+2,Smartphone,"Latest model smartphone",699.99
+3,Tablet,"10-inch tablet",399.99
+4,Headphones,"Noise-cancelling headphones",199.99
+5,Smartwatch,"Fitness and health tracker",149.99
+6,Monitor,"27-inch 4K monitor",299.99
+7,Keyboard,"Mechanical keyboard",89.99
+8,Mouse,"Wireless mouse",49.99
+9,Printer,"All-in-one printer",129.99
+10,Camera,"DSLR camera",599.99
+11,Speaker,"Bluetooth speaker",79.99
+12,Router,"Wi-Fi 6 router",99.99
+13,"Hard Drive","1TB external hard drive",59.99
+14,"USB Drive","128GB USB flash drive",29.99
+15,"Power Bank","20000mAh power bank",39.99
+16,Charger,"Fast charger",19.99
+17,Cable,"HDMI cable",9.99
+18,Adapter,"USB-C adapter",14.99
+19,Case,"Laptop case",24.99
+20,Stand,"Laptop stand",34.99
+21,"Smartphone Case","Protective case for smartphone",19.99
+22,"Gaming Mouse","High-precision gaming mouse",69.99
+23,"Bluetooth Headset","Wireless Bluetooth headset",129.99
+24,"Laptop Cooler","Cooling pad for laptops",49.99
+25,"External SSD","Portable solid-state drive",89.99
+26,Projector,"Mini projector for home use",199.99
+27,Webcam,"1080p HD webcam",59.99
+28,"Game Controller","Wireless game controller",49.99
+29,"Portable Speaker","Bluetooth portable speaker",39.99
+30,"Fitness Tracker","Health tracking wristband",79.99
+31,"VR Headset","Virtual reality headset",299.99
+32,"Smart TV","55-inch smart television",499.99
+33,E-reader,"Kindle E-reader",119.99
+34,"Digital Camera","Compact digital camera",249.99
+35,"Bluetooth Earbuds","True wireless earbuds",89.99
+36,Microphone,"USB microphone for streaming",99.99
+37,"Gaming Chair","Ergonomic gaming chair",249.99
+38,"Coffee Maker","Single-serve coffee machine",79.99
+39,"Air Purifier","Air purifier for home",119.99
+40,"Electric Kettle","Stainless steel electric kettle",39.99
